@@ -21,6 +21,6 @@ public class TestDemo {
             System.out.println(resultSet.getObject("pname"));
         }
 
-        System.out.println("把他们当一次人吧");
+
     }
 }
